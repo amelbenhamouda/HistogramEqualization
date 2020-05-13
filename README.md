@@ -2,7 +2,7 @@ Egalisation exacte d'histogramme
 =================================
 
 Projet M1.
-L’objectif de ce projet est de développer une application graphique pouvant générer des morphings entre deux images de taille 512 x 512.
+L’objectif de ce projet est de réaliser une méthodes permettant de transformer une image en niveaux de gris pour obtenir une image dont l'histogramme est complètement plat.
 
 Utilisation
 ===========
